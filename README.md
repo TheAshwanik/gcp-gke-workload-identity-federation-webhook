@@ -1,4 +1,4 @@
-# GCP Workload Identity Federation Webhook
+# GCP GKE Workload Identity Federation Webhook
 
 This webhook is for mutating pods that will require GCP Workload Identity Federation access from Kubernetes Cluster.
 
